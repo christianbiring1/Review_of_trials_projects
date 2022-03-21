@@ -1,5 +1,3 @@
-# Review_of_trials_projects
-
 # Review of my trial project
 
 > Description the project.
@@ -40,7 +38,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to Youssouf with whom I have completed this project with.
+<<<<<<< HEAD
+
+- # Hat tip to Youssouf with whom I have completed this project with.
+- Hat tip to anyone whose code was used
+  > > > > > > > main
 - Inspiration
 - etc
 
