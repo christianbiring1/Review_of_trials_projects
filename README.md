@@ -1,5 +1,3 @@
-# Review_of_trials_projects
-
 # Review of my trial project
 
 > Description the project.
@@ -11,41 +9,21 @@ In the previous lessons, I got an introduction to the code review process and I 
 - HTML
 - CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-To get a local copy up and running follow these simple example steps.
+Create a new empty repo.
+Copy my code from the project that I completed during the Admissions Trial
+Create a new branch for my copied code.
+Open a pull request
 
 ### Prerequisites
 
-### Setup
+Have complete the first block (week 1) of the program.
 
-### Install
+👤 **Author**
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@christianbirin1](https://github.com/christianbirin1)
+- Twitter: [@christianbirin4](https://twitter.com/christianbirin4)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
@@ -60,7 +38,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+<<<<<<< HEAD
+
+- # Hat tip to Youssouf with whom I have completed this project with.
 - Hat tip to anyone whose code was used
+  > > > > > > > main
 - Inspiration
 - etc
 
